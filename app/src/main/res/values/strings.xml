@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomRecyclerView</string>
+    <string name="text_description">description</string>
+    <string name="image_description">description</string>
+</resources>
